@@ -1,0 +1,7 @@
+wuKong.setServoAngle(wuKong.ServoTypeList._180, wuKong.ServoList.S2, 60)
+basic.pause(500)
+wuKong.setServoAngle(wuKong.ServoTypeList._180, wuKong.ServoList.S2, 90)
+basic.pause(500)
+wuKong.setServoAngle(wuKong.ServoTypeList._180, wuKong.ServoList.S2, 120)
+basic.pause(500)
+wuKong.setServoAngle(wuKong.ServoTypeList._180, wuKong.ServoList.S2, 90)

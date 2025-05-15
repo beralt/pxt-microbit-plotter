@@ -41,6 +41,7 @@ namespace plotter {
             wuKong.setServoAngle(wuKong.ServoTypeList._360, wuKong.ServoList.S0, right_arm_servo_angle)
             wuKong.setServoAngle(wuKong.ServoTypeList._360, wuKong.ServoList.S1, left_arm_servo_angle)
         }
+        basic.pause(500)
     }
 
 }
